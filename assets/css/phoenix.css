@@ -24,6 +24,12 @@ pre{padding: 1em;}
   position: relative;
   width: 100%
 }
+
+.container p{
+  font-size: 8rem; 
+  color: #606c76;
+}
+
 select {
   width: auto;
 }
