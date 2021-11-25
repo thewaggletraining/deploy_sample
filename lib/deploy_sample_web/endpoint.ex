@@ -51,4 +51,5 @@ defmodule DeploySampleWeb.Endpoint do
   plug Plug.Head
   plug Plug.Session, @session_options
   plug DeploySampleWeb.Router
+
 end
